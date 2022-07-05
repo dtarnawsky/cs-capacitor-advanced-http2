@@ -1,0 +1,2 @@
+# Capacitor Native Http Calls
+This Capacitor app is an example of using the `cordova-plugin-advanced-http` plugin to make native http calls when running on iOS and Android and on web using Angulars `HttpClient`. When on the web the backend API needs support for CORS but does not on IOS and Android.
